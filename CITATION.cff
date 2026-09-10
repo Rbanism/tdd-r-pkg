@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "tdd-r-pkg: Test-Driven R Package Development"
+message: "If you use these materials, please cite them using the metadata below."
+type: dataset
+abstract: >-
+  Teaching material introducing test-driven R package development,
+  prepared for the Rbanism workshop "Updating urban segregation
+  computation with R".
+authors:
+  - name: "Rbanism"
+    website: "https://rbanism.org"
+  - given-names: "Claudiu"
+    family-names: "Forgaci"
+repository-code: "https://github.com/rbanism/tdd-r-pkg"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+date-released: "2026-09-10"
