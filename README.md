@@ -1,4 +1,4 @@
-# Test-Driven R Package Develpment
+# Test-Driven R Package Development
 
 [![](https://img.shields.io/static/v1?label=Rbanism&message=OER&labelColor=93278F&color=00A99D&style=flat-square)](https://github.com/Rbanism)
 
